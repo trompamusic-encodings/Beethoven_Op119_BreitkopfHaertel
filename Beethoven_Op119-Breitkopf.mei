@@ -27,15 +27,15 @@
                         Beethoven</persName>
                 </composer>
                 <relationList>
-                  <relation rel="hasPart" target="Beethoven_Op119_Nr1-Breitkopf.mei" />
-                  <relation rel="hasPart" target="Beethoven_Op119_Nr2-Breitkopf.mei" />
-                  <relation rel="hasPart" target="Beethoven_Op119_Nr3-Breitkopf.mei" />
-                  <relation rel="hasPart" target="Beethoven_Op119_Nr4-Breitkopf.mei" />
-                  <relation rel="hasPart" target="Beethoven_Op119_Nr5-Breitkopf.mei" />
-                  <relation rel="hasPart" target="Beethoven_Op119_Nr6-Breitkopf.mei" />
-                  <relation rel="hasPart" target="Beethoven_Op119_Nr7-Breitkopf.mei" />
-                  <relation rel="hasPart" target="Beethoven_Op119_Nr8-Breitkopf.mei" />
-                  <relation rel="hasPart" target="Beethoven_Op119_Nr9-Breitkopf.mei" />
+                  <relation rel="hasPart" target="Beethoven_Op119_Nr01-Breitkopf.mei" />
+                  <relation rel="hasPart" target="Beethoven_Op119_Nr02-Breitkopf.mei" />
+                  <relation rel="hasPart" target="Beethoven_Op119_Nr03-Breitkopf.mei" />
+                  <relation rel="hasPart" target="Beethoven_Op119_Nr04-Breitkopf.mei" />
+                  <relation rel="hasPart" target="Beethoven_Op119_Nr05-Breitkopf.mei" />
+                  <relation rel="hasPart" target="Beethoven_Op119_Nr06-Breitkopf.mei" />
+                  <relation rel="hasPart" target="Beethoven_Op119_Nr07-Breitkopf.mei" />
+                  <relation rel="hasPart" target="Beethoven_Op119_Nr08-Breitkopf.mei" />
+                  <relation rel="hasPart" target="Beethoven_Op119_Nr09-Breitkopf.mei" />
                   <relation rel="hasPart" target="Beethoven_Op119_Nr10-Breitkopf.mei" />
                   <relation rel="hasPart" target="Beethoven_Op119_Nr11-Breitkopf.mei" />
                 </relationList>
