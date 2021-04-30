@@ -685,7 +685,7 @@
                                 </staff>
                             </measure>
                         </section>
-                        <ending xml:id="B1" lendsym="angledown" n="1">
+                        <ending xml:id="B1" lendsym="angledown" n="1.">
                             <measure xml:id="measure-0000001638550207" right="rptend" n="24">
                                 <staff xml:id="staff-0000000854562959" n="1">
                                     <layer xml:id="layer-0000000269020777" n="1">
@@ -708,7 +708,7 @@
                             </measure>
                         </ending>
                         <sb xml:id="sb-0000001287134269"/>
-                        <ending xml:id="B2" lendsym="angledown" n="2">
+                        <ending xml:id="B2" lendsym="angledown" n="2.">
                             <measure xml:id="measure-0000000362420578" n="24">
                                 <staff xml:id="staff-0000000078657082" n="1">
                                     <layer xml:id="layer-0000001262882852" n="1">
@@ -757,8 +757,8 @@
                                         <note xml:id="note-0000000848257283" dots="1" dur.ppq="12" dur="2" oct="3" pname="b" stem.dir="down" accid.ges="f"/>
                                     </layer>
                                 </staff>
-                                <tie xml:id="tie-0000000894405166" startid="#note-0000000724895475" endid="#note-0000001167372418"/>
-                                <tie xml:id="tie-0000001679658225" startid="#note-0000000848257283" endid="#note-0000000362976374"/>
+                                <tie xml:id="tie-0000000894405166" startid="#note-0000000724895475" endid="#note-0000001167372418" curvedir="above"/>
+                                <tie xml:id="tie-0000001679658225" startid="#note-0000000848257283" endid="#note-0000000362976374" curvedir="below"/>
                             </measure>
                             <measure xml:id="measure-0000002047493335" n="26">
                                 <staff xml:id="staff-0000000944717844" n="1">
@@ -817,8 +817,8 @@
                                 <slur xml:id="slur-0000000597399035" startid="#note-0000000299015544" endid="#note-0000000999531520" curvedir="above"/>
                                 <slur xml:id="slur-0000000458898568" startid="#note-0000000687574725" endid="#note-0000001094455999" curvedir="above"/>
                                 <slur xml:id="slur-0000001616372208" startid="#note-0000001324538638" endid="#note-0000000699565306" curvedir="above"/>
-                                <tie xml:id="tie-0000001813959555" startid="#note-0000000937533568" endid="#note-0000000911335255"/>
-                                <tie xml:id="tie-0000001536861357" startid="#note-0000000418469084" endid="#note-0000000349319948"/>
+                                <tie xml:id="tie-0000001813959555" startid="#note-0000000937533568" endid="#note-0000000911335255" curvedir="above"/>
+                                <tie xml:id="tie-0000001536861357" startid="#note-0000000418469084" endid="#note-0000000349319948" curvedir="below"/>
                             </measure>
                             <measure xml:id="measure-0000000121130617" n="28">
                                 <staff xml:id="staff-0000001642548467" n="1">
@@ -922,7 +922,7 @@
                                 </staff>
                             </measure>
                         </section>
-                        <ending xml:id="C1" lendsym="angledown" n="1">
+                        <ending xml:id="C1" lendsym="angledown" n="1.">
                             <measure xml:id="measure-0000000736778015" right="rptend" n="32">
                                 <staff xml:id="staff-0000001049976766" n="1">
                                     <layer xml:id="layer-0000001086378763" n="1">
@@ -948,7 +948,7 @@
                                 </staff>
                             </measure>
                         </ending>
-                        <ending xml:id="C2" lendsym="angledown" n="2">
+                        <ending xml:id="C2" lendsym="angledown" n="2.">
                             <measure xml:id="measure-0000002127291513" n="32">
                                 <staff xml:id="staff-0000002035017233" n="1">
                                     <layer xml:id="layer-0000001710072909" n="1">
