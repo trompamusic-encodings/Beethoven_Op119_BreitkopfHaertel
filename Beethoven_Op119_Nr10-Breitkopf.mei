@@ -234,7 +234,7 @@
                                 <tie xml:id="tie-0000001545276740" startid="#note-0000000876615880" endid="#note-0000000283029514"/>
                             </measure>
                         </section>
-                        <ending xml:id="A1" lendsym="angledown" n="1">
+                        <ending xml:id="A1" lendsym="angledown" n="1.">
                             <measure xml:id="measure-0000001642208634" right="rptend" n="8">
                                 <staff xml:id="staff-0000001524826148" n="1">
                                     <layer xml:id="layer-0000001830709785" n="1">
@@ -257,7 +257,7 @@
                                 </staff>
                             </measure>
                         </ending>
-                        <ending xml:id="A2" lendsym="angledown" n="2">
+                        <ending xml:id="A2" lendsym="angledown" n="2.">
                             <measure xml:id="measure-0000001851315717" n="8">
                                 <staff xml:id="staff-0000001346323327" n="1">
                                     <layer xml:id="layer-0000001768452097" n="1">
