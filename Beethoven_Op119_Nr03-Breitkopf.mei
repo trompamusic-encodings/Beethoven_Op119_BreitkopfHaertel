@@ -69,7 +69,7 @@
                                         <rest xml:id="rest-0000001210630882" dur.ppq="2" dur="8"/>
                                     </layer>
                                 </staff>
-                                <tempo xml:id="tempo-0000000132656615" place="above" staff="1" tstamp="1.000000" mm="100" mm.unit="4">à l'Allemande</tempo>
+                                <tempo xml:id="tempo-0000000132656615" place="above" staff="1" tstamp="1.000000" mm="100" mm.unit="4">à l’Allemande</tempo>
                             </measure>
                             <measure xml:id="measure-0000002083635139" n="1">
                                 <staff xml:id="staff-0000002142264877" n="1">
