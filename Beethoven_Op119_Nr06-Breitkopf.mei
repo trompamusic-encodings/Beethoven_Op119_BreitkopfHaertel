@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://music-encoding.org/schema/4.0.0/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://music-encoding.org/schema/4.0.0/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="4.0.0">
+<?xml-model href="https://music-encoding.org/schema/4.0.1/mei-CMN.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/4.0.1/mei-CMN.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="4.0.1">
     <meiHead>
         <fileDesc>
             <titleStmt>
@@ -44,7 +44,7 @@
                         </pgFoot2>
                         <staffGrp xml:id="staffgrp-0000001617444594" symbol="brace" bar.thru="true">
                             <label xml:id="label-0000001379585511">
-                                <rend xml:id="rend-0000001328416153" fontsize="x-large" fontweight="bold">No. 5.</rend>
+                                <rend xml:id="rend-0000001328416153" fontsize="x-large" fontweight="bold">No. 6.</rend>
                             </label>
                             <staffDef xml:id="staffdef-0000001040011639" n="1" lines="5" clef.shape="G" clef.line="2">
                                 <instrDef xml:id="instrdef-0000001540558636" midi.channel="0" midi.instrnum="0" midi.volume="78.00%"/>
@@ -71,7 +71,8 @@
                                 </layer>
                             </staff>
                             <slur xml:id="slur-0000001192660633" startid="#note-0000002139121580" endid="#note-0000001896952550" curvedir="above"/>
-                        </measure>
+                           <tempo xml:id="tempo-0000000588416989" startid="#note-0000002139121580" place="above">Andante. </tempo>
+                       </measure>
                         <measure xml:id="measure-0000001439347790" n="1">
                             <staff xml:id="staff-0000001064874510" n="1">
                                 <layer xml:id="layer-0000000217175472" n="1">
@@ -477,7 +478,7 @@
                                     </chord>
                                 </layer>
                             </staff>
-                            <tempo xml:id="tempo-0000000530709542" place="above" staff="1" tstamp="1.000000">Allegretto.</tempo>
+                            <tempo xml:id="tempo-0000000530709542" place="above" staff="1" tstamp="1.00000 ">Allegretto.</tempo>
                             <dir xml:id="dir-0000001815266659" place="below" staff="1" tstamp="1.000000" vgrp="40">leggiermente</dir>
                             <slur xml:id="slur-0000001338206678" startid="#note-0000000175767729" endid="#note-0000000387412513" curvedir="above"/>
                         </measure>
@@ -1894,7 +1895,7 @@
                                     </beam>
                                 </layer>
                             </staff>
-                            <tempo xml:id="dir-0000001875678128" place="above" staff="1" tstamp="1.000000" vgrp="200">L'istesso tempo.</tempo>
+                            <tempo xml:id="dir-0000001875678128" place="above" staff="1" tstamp="1.000000" vgrp="200">L’istesso tempo.</tempo>
                             <dir xml:id="dir-0000001609876053" place="above" staff="1" tstamp="4.500000">
                                 <rend xml:id="rend-0000001040354218" fontsize="80.00%" fontstyle="normal">(Dieselbe Bewegung.)</rend>
                             </dir>
