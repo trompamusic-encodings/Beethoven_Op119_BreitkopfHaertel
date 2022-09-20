@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://music-encoding.org/schema/4.0.0/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://music-encoding.org/schema/4.0.0/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="4.0.0">
+<?xml-model href="https://music-encoding.org/schema/4.0.1/mei-CMN.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/4.0.1/mei-CMN.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="4.0.1">
     <meiHead>
         <fileDesc>
             <titleStmt>
@@ -97,7 +97,7 @@
                                         </chord>
                                     </layer>
                                 </staff>
-                                <dynam xml:id="dynam-0000000406970666" place="below" staff="1" tstamp="0.750000" vgrp="40">p</dynam>
+                                <dynam xml:id="dynam-0000000406970666" place="below" staff="1" tstamp="0.50000" vgrp="40">p</dynam>
                                 <dir xml:id="dir-0000000525685247" place="below" staff="1" tstamp="1.000000" vgrp="40">
                                     <rend xml:id="rend-0000001395593825" fontstyle="italic">innocentemente e cantabile</rend>
                                 </dir>
@@ -990,7 +990,7 @@
                                     </layer>
                                 </staff>
                                 <slur xml:id="slur-0000001222494949" startid="#note-0000001176608075" endid="#chord-0000001144436816" curvedir="above"/>
-                                <hairpin xml:id="hairpin-0000001496556994" staff="1" tstamp="3.000000" tstamp2="1m+1.0000" form="cres" place="below" vgrp="40"/>
+                                <hairpin xml:id="hairpin-0000001496556994" staff="1" tstamp="3.000000" tstamp2="1m+0.5" form="cres" place="below" vgrp="40"/>
                             </measure>
                             <measure xml:id="measure-0000001733477697" right="end" n="22">
                                 <staff xml:id="staff-0000000365131988" n="1">
@@ -1027,7 +1027,7 @@
                                         <rest xml:id="rest-0000001839937407" dur="4"/>
                                     </layer>
                                 </staff>
-                                <hairpin xml:id="hairpin-0000001412542837" staff="1" tstamp="1.000000" tstamp2="0m+3.0000" form="dim" place="below" vgrp="40"/>
+                                <hairpin xml:id="hairpin-0000001412542837" staff="1" tstamp="1.25" tstamp2="0m+3.0000" form="dim" place="below" vgrp="40"/>
                             </measure>
                         </section>
                     </section>
